@@ -418,7 +418,6 @@ La hipótesis de que más reglas implican mayor seguridad no se sostuvo: la prim
 
 Esta es una evaluación pequeña, de una corrida por configuración, con un solo modelo, semilla y conjunto de entradas. No cubre ataques codificados, conversaciones prolongadas, otros idiomas, recuperación de documentos real, integraciones con herramientas, manejo de salidas en una aplicación ni todos los riesgos OWASP. Las aserciones de búsqueda literal pueden pasar ante respuestas inseguras redactadas de otra manera y fallar si el modelo cita una cadena dentro de una negativa. Se revisaron las respuestas completas para interpretar esos casos.
 
-Para una exposición breve: (1) presentar AURA y el marcador ficticio; (2) mostrar las dos variantes de inyección; (3) contrastar el 100 % automático inicial con su rechazo de consultas legítimas; (4) mostrar la filtración y el cambio de rol en v1; (5) explicar la separación de roles y la eliminación de valores reservados del contexto; (6) cerrar con el resultado final observado y las limitaciones de los prompts frente a controles de servidor.
 
 ### 10.9 Fuentes técnicas consultadas
 
