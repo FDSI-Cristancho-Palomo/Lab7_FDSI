@@ -1,0 +1,4 @@
+﻿NAME           ID              SIZE      MODIFIED       
+llama3.2:3b    a80c4f17acd5    2.0 GB    39 seconds ago    
+v24.11.0
+0.126.0
