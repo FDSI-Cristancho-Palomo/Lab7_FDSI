@@ -168,7 +168,7 @@ La prueba de permisos solo permite observar si el asistente inventa haber actuad
 
 Las imágenes son capturas de páginas HTML creadas a partir de los resultados reales de Promptfoo y abiertas con Chrome. No son capturas de la terminal ni del visor de Promptfoo.
 
-Guardamos las ocho capturas en `C:\Users\isaac\Downloads\Lab7_FDSI_evidencias` y dejamos una copia en [evidencias/](evidencias/) para que se puedan ver desde este README.
+Dejamos una copia en [evidencias/](evidencias/) 
 
 ### Entorno y resumen de las evaluaciones
 
